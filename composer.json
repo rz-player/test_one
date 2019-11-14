@@ -1,0 +1,20 @@
+{
+  "name": "Brevis",
+  "autoload": {
+    "psr-4": {
+      "Brevis\\": "core/"
+    }
+  },
+  "require": {
+    "php":">=7.0",
+    "fenom/fenom": "2.*",
+    "xpdo/xpdo": "3.0.*@dev",
+    "erusev/parsedown": "1.7.*",
+    "amstaffix/pagination": "^1.1"
+  },
+  "scripts": {
+    "post-install-cmd": "\\Brevis\\Core::cleanPackages",
+    "post-update-cmd": "\\Brevis\\Core::cleanPackages"
+  }
+
+}

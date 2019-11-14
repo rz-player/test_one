@@ -1,0 +1,104 @@
+[2018-10-24 21:38:44] (ERROR in xPDO\xPDOConnection::connect @ C:\OpenServer\domains\bezumkin.me\vendor\xpdo\xpdo\src\xPDO\xPDOConnection.php : 89) SQLSTATE[HY000] [1045] Access denied for user 's1889'@'localhost' (using password: YES)
+[2018-10-24 21:38:44] (ERROR in xPDO\xPDOConnection::connect @ C:\OpenServer\domains\bezumkin.me\vendor\xpdo\xpdo\src\xPDO\xPDOConnection.php : 89) SQLSTATE[HY000] [1045] Access denied for user 's1889'@'localhost' (using password: YES)
+[2018-10-24 21:38:44] (ERROR in xPDO\xPDOConnection::connect @ C:\OpenServer\domains\bezumkin.me\vendor\xpdo\xpdo\src\xPDO\xPDOConnection.php : 89) SQLSTATE[HY000] [1045] Access denied for user 's1889'@'localhost' (using password: YES)
+[2018-10-24 21:38:44] (ERROR in xPDO\xPDOConnection::connect @ C:\OpenServer\domains\bezumkin.me\vendor\xpdo\xpdo\src\xPDO\xPDOConnection.php : 89) SQLSTATE[HY000] [1045] Access denied for user 's1889'@'localhost' (using password: YES)
+[2018-10-24 21:38:44] (ERROR in xPDO\xPDOConnection::connect @ C:\OpenServer\domains\bezumkin.me\vendor\xpdo\xpdo\src\xPDO\xPDOConnection.php : 89) SQLSTATE[HY000] [1045] Access denied for user 's1889'@'localhost' (using password: YES)
+[2018-10-24 21:38:44] (ERROR @ /index.php) Could not create table `news`
+SQL: CREATE TABLE `news` (`id` INTEGER unsigned NOT NULL AUTO_INCREMENT, `pagetitle` VARCHAR(100) NULL DEFAULT '', `longtitle` VARCHAR(255) NULL DEFAULT '', `text` LONGTEXT NULL, `alias` VARCHAR(100) NULL DEFAULT '', PRIMARY KEY (`id`), INDEX `alias` (`alias`)) ENGINE=MyISAM
+ERROR: 
+[2018-10-24 21:38:53] (ERROR in xPDO\xPDOConnection::connect @ C:\OpenServer\domains\bezumkin.me\vendor\xpdo\xpdo\src\xPDO\xPDOConnection.php : 89) SQLSTATE[HY000] [1045] Access denied for user 's1889'@'localhost' (using password: YES)
+[2018-10-24 21:38:53] (ERROR in xPDO\xPDOConnection::connect @ C:\OpenServer\domains\bezumkin.me\vendor\xpdo\xpdo\src\xPDO\xPDOConnection.php : 89) SQLSTATE[HY000] [1045] Access denied for user 's1889'@'localhost' (using password: YES)
+[2018-10-24 21:38:53] (ERROR in xPDO\xPDOConnection::connect @ C:\OpenServer\domains\bezumkin.me\vendor\xpdo\xpdo\src\xPDO\xPDOConnection.php : 89) SQLSTATE[HY000] [1045] Access denied for user 's1889'@'localhost' (using password: YES)
+[2018-10-24 21:38:53] (ERROR in xPDO\xPDOConnection::connect @ C:\OpenServer\domains\bezumkin.me\vendor\xpdo\xpdo\src\xPDO\xPDOConnection.php : 89) SQLSTATE[HY000] [1045] Access denied for user 's1889'@'localhost' (using password: YES)
+[2018-10-24 21:38:53] (ERROR in xPDO\xPDOConnection::connect @ C:\OpenServer\domains\bezumkin.me\vendor\xpdo\xpdo\src\xPDO\xPDOConnection.php : 89) SQLSTATE[HY000] [1045] Access denied for user 's1889'@'localhost' (using password: YES)
+[2018-10-24 21:38:53] (ERROR @ /index.php) Could not create table `news`
+SQL: CREATE TABLE `news` (`id` INTEGER unsigned NOT NULL AUTO_INCREMENT, `pagetitle` VARCHAR(100) NULL DEFAULT '', `longtitle` VARCHAR(255) NULL DEFAULT '', `text` LONGTEXT NULL, `alias` VARCHAR(100) NULL DEFAULT '', PRIMARY KEY (`id`), INDEX `alias` (`alias`)) ENGINE=MyISAM
+ERROR: 
+[2018-10-24 21:39:05] (ERROR in xPDO\xPDOConnection::connect @ C:\OpenServer\domains\bezumkin.me\vendor\xpdo\xpdo\src\xPDO\xPDOConnection.php : 89) SQLSTATE[HY000] [1045] Access denied for user 's1889'@'localhost' (using password: YES)
+[2018-10-24 21:39:06] (ERROR in xPDO\xPDOConnection::connect @ C:\OpenServer\domains\bezumkin.me\vendor\xpdo\xpdo\src\xPDO\xPDOConnection.php : 89) SQLSTATE[HY000] [1045] Access denied for user 's1889'@'localhost' (using password: YES)
+[2018-10-24 21:39:06] (ERROR in xPDO\xPDOConnection::connect @ C:\OpenServer\domains\bezumkin.me\vendor\xpdo\xpdo\src\xPDO\xPDOConnection.php : 89) SQLSTATE[HY000] [1045] Access denied for user 's1889'@'localhost' (using password: YES)
+[2018-10-24 21:39:06] (ERROR in xPDO\xPDOConnection::connect @ C:\OpenServer\domains\bezumkin.me\vendor\xpdo\xpdo\src\xPDO\xPDOConnection.php : 89) SQLSTATE[HY000] [1045] Access denied for user 's1889'@'localhost' (using password: YES)
+[2018-10-24 21:39:06] (ERROR in xPDO\xPDOConnection::connect @ C:\OpenServer\domains\bezumkin.me\vendor\xpdo\xpdo\src\xPDO\xPDOConnection.php : 89) SQLSTATE[HY000] [1045] Access denied for user 's1889'@'localhost' (using password: YES)
+[2018-10-24 21:39:06] (ERROR @ /index.php) Could not create table `news`
+SQL: CREATE TABLE `news` (`id` INTEGER unsigned NOT NULL AUTO_INCREMENT, `pagetitle` VARCHAR(100) NULL DEFAULT '', `longtitle` VARCHAR(255) NULL DEFAULT '', `text` LONGTEXT NULL, `alias` VARCHAR(100) NULL DEFAULT '', PRIMARY KEY (`id`), INDEX `alias` (`alias`)) ENGINE=MyISAM
+ERROR: 
+[2018-10-24 21:39:06] (ERROR in xPDO\xPDOConnection::connect @ C:\OpenServer\domains\bezumkin.me\vendor\xpdo\xpdo\src\xPDO\xPDOConnection.php : 89) SQLSTATE[HY000] [1045] Access denied for user 's1889'@'localhost' (using password: YES)
+[2018-10-24 21:39:06] (ERROR in xPDO\xPDOConnection::connect @ C:\OpenServer\domains\bezumkin.me\vendor\xpdo\xpdo\src\xPDO\xPDOConnection.php : 89) SQLSTATE[HY000] [1045] Access denied for user 's1889'@'localhost' (using password: YES)
+[2018-10-24 21:39:06] (ERROR in xPDO\xPDOConnection::connect @ C:\OpenServer\domains\bezumkin.me\vendor\xpdo\xpdo\src\xPDO\xPDOConnection.php : 89) SQLSTATE[HY000] [1045] Access denied for user 's1889'@'localhost' (using password: YES)
+[2018-10-24 21:39:06] (ERROR in xPDO\xPDOConnection::connect @ C:\OpenServer\domains\bezumkin.me\vendor\xpdo\xpdo\src\xPDO\xPDOConnection.php : 89) SQLSTATE[HY000] [1045] Access denied for user 's1889'@'localhost' (using password: YES)
+[2018-10-24 21:39:06] (ERROR in xPDO\xPDOConnection::connect @ C:\OpenServer\domains\bezumkin.me\vendor\xpdo\xpdo\src\xPDO\xPDOConnection.php : 89) SQLSTATE[HY000] [1045] Access denied for user 's1889'@'localhost' (using password: YES)
+[2018-10-24 21:39:06] (ERROR @ /index.php) Could not create table `news`
+SQL: CREATE TABLE `news` (`id` INTEGER unsigned NOT NULL AUTO_INCREMENT, `pagetitle` VARCHAR(100) NULL DEFAULT '', `longtitle` VARCHAR(255) NULL DEFAULT '', `text` LONGTEXT NULL, `alias` VARCHAR(100) NULL DEFAULT '', PRIMARY KEY (`id`), INDEX `alias` (`alias`)) ENGINE=MyISAM
+ERROR: 
+[2018-10-24 21:39:10] (ERROR in xPDO\xPDOConnection::connect @ C:\OpenServer\domains\bezumkin.me\vendor\xpdo\xpdo\src\xPDO\xPDOConnection.php : 89) SQLSTATE[HY000] [1045] Access denied for user 's1889'@'localhost' (using password: YES)
+[2018-10-24 21:39:10] (ERROR in xPDO\xPDOConnection::connect @ C:\OpenServer\domains\bezumkin.me\vendor\xpdo\xpdo\src\xPDO\xPDOConnection.php : 89) SQLSTATE[HY000] [1045] Access denied for user 's1889'@'localhost' (using password: YES)
+[2018-10-24 21:39:10] (ERROR in xPDO\xPDOConnection::connect @ C:\OpenServer\domains\bezumkin.me\vendor\xpdo\xpdo\src\xPDO\xPDOConnection.php : 89) SQLSTATE[HY000] [1045] Access denied for user 's1889'@'localhost' (using password: YES)
+[2018-10-24 21:39:10] (ERROR in xPDO\xPDOConnection::connect @ C:\OpenServer\domains\bezumkin.me\vendor\xpdo\xpdo\src\xPDO\xPDOConnection.php : 89) SQLSTATE[HY000] [1045] Access denied for user 's1889'@'localhost' (using password: YES)
+[2018-10-24 21:39:10] (ERROR in xPDO\xPDOConnection::connect @ C:\OpenServer\domains\bezumkin.me\vendor\xpdo\xpdo\src\xPDO\xPDOConnection.php : 89) SQLSTATE[HY000] [1045] Access denied for user 's1889'@'localhost' (using password: YES)
+[2018-10-24 21:39:10] (ERROR @ /index.php) Could not create table `news`
+SQL: CREATE TABLE `news` (`id` INTEGER unsigned NOT NULL AUTO_INCREMENT, `pagetitle` VARCHAR(100) NULL DEFAULT '', `longtitle` VARCHAR(255) NULL DEFAULT '', `text` LONGTEXT NULL, `alias` VARCHAR(100) NULL DEFAULT '', PRIMARY KEY (`id`), INDEX `alias` (`alias`)) ENGINE=MyISAM
+ERROR: 
+[2018-10-24 21:40:20] (ERROR in xPDO\xPDOConnection::connect @ C:\OpenServer\domains\bezumkin.me\vendor\xpdo\xpdo\src\xPDO\xPDOConnection.php : 89) SQLSTATE[HY000] [1045] Access denied for user 's1889'@'localhost' (using password: YES)
+[2018-10-24 21:40:20] (ERROR in xPDO\xPDOConnection::connect @ C:\OpenServer\domains\bezumkin.me\vendor\xpdo\xpdo\src\xPDO\xPDOConnection.php : 89) SQLSTATE[HY000] [1045] Access denied for user 's1889'@'localhost' (using password: YES)
+[2018-10-24 21:40:20] (ERROR in xPDO\xPDOConnection::connect @ C:\OpenServer\domains\bezumkin.me\vendor\xpdo\xpdo\src\xPDO\xPDOConnection.php : 89) SQLSTATE[HY000] [1045] Access denied for user 's1889'@'localhost' (using password: YES)
+[2018-10-24 21:40:20] (ERROR in xPDO\xPDOConnection::connect @ C:\OpenServer\domains\bezumkin.me\vendor\xpdo\xpdo\src\xPDO\xPDOConnection.php : 89) SQLSTATE[HY000] [1045] Access denied for user 's1889'@'localhost' (using password: YES)
+[2018-10-24 21:40:20] (ERROR in xPDO\xPDOConnection::connect @ C:\OpenServer\domains\bezumkin.me\vendor\xpdo\xpdo\src\xPDO\xPDOConnection.php : 89) SQLSTATE[HY000] [1045] Access denied for user 's1889'@'localhost' (using password: YES)
+[2018-10-24 21:40:20] (ERROR @ /index.php) Could not create table `news`
+SQL: CREATE TABLE `news` (`id` INTEGER unsigned NOT NULL AUTO_INCREMENT, `pagetitle` VARCHAR(100) NULL DEFAULT '', `longtitle` VARCHAR(255) NULL DEFAULT '', `text` LONGTEXT NULL, `alias` VARCHAR(100) NULL DEFAULT '', PRIMARY KEY (`id`), INDEX `alias` (`alias`)) ENGINE=MyISAM
+ERROR: 
+[2018-10-24 21:40:23] (ERROR in xPDO\xPDOConnection::connect @ C:\OpenServer\domains\bezumkin.me\vendor\xpdo\xpdo\src\xPDO\xPDOConnection.php : 89) SQLSTATE[HY000] [1045] Access denied for user 's1889'@'localhost' (using password: YES)
+[2018-10-24 21:40:23] (ERROR in xPDO\xPDOConnection::connect @ C:\OpenServer\domains\bezumkin.me\vendor\xpdo\xpdo\src\xPDO\xPDOConnection.php : 89) SQLSTATE[HY000] [1045] Access denied for user 's1889'@'localhost' (using password: YES)
+[2018-10-24 21:40:23] (ERROR in xPDO\xPDOConnection::connect @ C:\OpenServer\domains\bezumkin.me\vendor\xpdo\xpdo\src\xPDO\xPDOConnection.php : 89) SQLSTATE[HY000] [1045] Access denied for user 's1889'@'localhost' (using password: YES)
+[2018-10-24 21:40:23] (ERROR in xPDO\xPDOConnection::connect @ C:\OpenServer\domains\bezumkin.me\vendor\xpdo\xpdo\src\xPDO\xPDOConnection.php : 89) SQLSTATE[HY000] [1045] Access denied for user 's1889'@'localhost' (using password: YES)
+[2018-10-24 21:40:23] (ERROR in xPDO\xPDOConnection::connect @ C:\OpenServer\domains\bezumkin.me\vendor\xpdo\xpdo\src\xPDO\xPDOConnection.php : 89) SQLSTATE[HY000] [1045] Access denied for user 's1889'@'localhost' (using password: YES)
+[2018-10-24 21:40:23] (ERROR @ /index.php) Could not create table `news`
+SQL: CREATE TABLE `news` (`id` INTEGER unsigned NOT NULL AUTO_INCREMENT, `pagetitle` VARCHAR(100) NULL DEFAULT '', `longtitle` VARCHAR(255) NULL DEFAULT '', `text` LONGTEXT NULL, `alias` VARCHAR(100) NULL DEFAULT '', PRIMARY KEY (`id`), INDEX `alias` (`alias`)) ENGINE=MyISAM
+ERROR: 
+[2018-10-24 21:40:42] (ERROR in xPDO\xPDOConnection::connect @ C:\OpenServer\domains\bezumkin.me\vendor\xpdo\xpdo\src\xPDO\xPDOConnection.php : 89) SQLSTATE[HY000] [1045] Access denied for user 's1889'@'localhost' (using password: YES)
+[2018-10-24 21:40:42] (ERROR in xPDO\xPDOConnection::connect @ C:\OpenServer\domains\bezumkin.me\vendor\xpdo\xpdo\src\xPDO\xPDOConnection.php : 89) SQLSTATE[HY000] [1045] Access denied for user 's1889'@'localhost' (using password: YES)
+[2018-10-24 21:40:42] (ERROR in xPDO\xPDOConnection::connect @ C:\OpenServer\domains\bezumkin.me\vendor\xpdo\xpdo\src\xPDO\xPDOConnection.php : 89) SQLSTATE[HY000] [1045] Access denied for user 's1889'@'localhost' (using password: YES)
+[2018-10-24 21:40:42] (ERROR in xPDO\xPDOConnection::connect @ C:\OpenServer\domains\bezumkin.me\vendor\xpdo\xpdo\src\xPDO\xPDOConnection.php : 89) SQLSTATE[HY000] [1045] Access denied for user 's1889'@'localhost' (using password: YES)
+[2018-10-24 21:40:42] (ERROR in xPDO\xPDOConnection::connect @ C:\OpenServer\domains\bezumkin.me\vendor\xpdo\xpdo\src\xPDO\xPDOConnection.php : 89) SQLSTATE[HY000] [1045] Access denied for user 's1889'@'localhost' (using password: YES)
+[2018-10-24 21:40:42] (ERROR @ /index.php) Could not create table `news`
+SQL: CREATE TABLE `news` (`id` INTEGER unsigned NOT NULL AUTO_INCREMENT, `pagetitle` VARCHAR(100) NULL DEFAULT '', `longtitle` VARCHAR(255) NULL DEFAULT '', `text` LONGTEXT NULL, `alias` VARCHAR(100) NULL DEFAULT '', PRIMARY KEY (`id`), INDEX `alias` (`alias`)) ENGINE=MyISAM
+ERROR: 
+[2018-10-24 21:41:00] (ERROR in xPDO\xPDOConnection::connect @ C:\OpenServer\domains\bezumkin.me\vendor\xpdo\xpdo\src\xPDO\xPDOConnection.php : 89) SQLSTATE[HY000] [1045] Access denied for user 's1889'@'localhost' (using password: YES)
+[2018-10-24 21:41:00] (ERROR in xPDO\xPDOConnection::connect @ C:\OpenServer\domains\bezumkin.me\vendor\xpdo\xpdo\src\xPDO\xPDOConnection.php : 89) SQLSTATE[HY000] [1045] Access denied for user 's1889'@'localhost' (using password: YES)
+[2018-10-24 21:41:00] (ERROR in xPDO\xPDOConnection::connect @ C:\OpenServer\domains\bezumkin.me\vendor\xpdo\xpdo\src\xPDO\xPDOConnection.php : 89) SQLSTATE[HY000] [1045] Access denied for user 's1889'@'localhost' (using password: YES)
+[2018-10-24 21:41:00] (ERROR in xPDO\xPDOConnection::connect @ C:\OpenServer\domains\bezumkin.me\vendor\xpdo\xpdo\src\xPDO\xPDOConnection.php : 89) SQLSTATE[HY000] [1045] Access denied for user 's1889'@'localhost' (using password: YES)
+[2018-10-24 21:41:00] (ERROR in xPDO\xPDOConnection::connect @ C:\OpenServer\domains\bezumkin.me\vendor\xpdo\xpdo\src\xPDO\xPDOConnection.php : 89) SQLSTATE[HY000] [1045] Access denied for user 's1889'@'localhost' (using password: YES)
+[2018-10-24 21:41:00] (ERROR @ /index.php) Could not create table `news`
+SQL: CREATE TABLE `news` (`id` INTEGER unsigned NOT NULL AUTO_INCREMENT, `pagetitle` VARCHAR(100) NULL DEFAULT '', `longtitle` VARCHAR(255) NULL DEFAULT '', `text` LONGTEXT NULL, `alias` VARCHAR(100) NULL DEFAULT '', PRIMARY KEY (`id`), INDEX `alias` (`alias`)) ENGINE=MyISAM
+ERROR: 
+[2018-10-24 21:41:03] (ERROR in xPDO\xPDOConnection::connect @ C:\OpenServer\domains\bezumkin.me\vendor\xpdo\xpdo\src\xPDO\xPDOConnection.php : 89) SQLSTATE[HY000] [1045] Access denied for user 's1889'@'localhost' (using password: YES)
+[2018-10-24 21:41:03] (ERROR in xPDO\xPDOConnection::connect @ C:\OpenServer\domains\bezumkin.me\vendor\xpdo\xpdo\src\xPDO\xPDOConnection.php : 89) SQLSTATE[HY000] [1045] Access denied for user 's1889'@'localhost' (using password: YES)
+[2018-10-24 21:41:03] (ERROR in xPDO\xPDOConnection::connect @ C:\OpenServer\domains\bezumkin.me\vendor\xpdo\xpdo\src\xPDO\xPDOConnection.php : 89) SQLSTATE[HY000] [1045] Access denied for user 's1889'@'localhost' (using password: YES)
+[2018-10-24 21:41:03] (ERROR in xPDO\xPDOConnection::connect @ C:\OpenServer\domains\bezumkin.me\vendor\xpdo\xpdo\src\xPDO\xPDOConnection.php : 89) SQLSTATE[HY000] [1045] Access denied for user 's1889'@'localhost' (using password: YES)
+[2018-10-24 21:41:03] (ERROR in xPDO\xPDOConnection::connect @ C:\OpenServer\domains\bezumkin.me\vendor\xpdo\xpdo\src\xPDO\xPDOConnection.php : 89) SQLSTATE[HY000] [1045] Access denied for user 's1889'@'localhost' (using password: YES)
+[2018-10-24 21:41:03] (ERROR @ /index.php) Could not create table `news`
+SQL: CREATE TABLE `news` (`id` INTEGER unsigned NOT NULL AUTO_INCREMENT, `pagetitle` VARCHAR(100) NULL DEFAULT '', `longtitle` VARCHAR(255) NULL DEFAULT '', `text` LONGTEXT NULL, `alias` VARCHAR(100) NULL DEFAULT '', PRIMARY KEY (`id`), INDEX `alias` (`alias`)) ENGINE=MyISAM
+ERROR: 
+[2018-10-24 21:43:00] (ERROR in xPDO\xPDOConnection::connect @ C:\OpenServer\domains\bezumkin.me\vendor\xpdo\xpdo\src\xPDO\xPDOConnection.php : 89) SQLSTATE[HY000] [1045] Access denied for user 's1889'@'localhost' (using password: YES)
+[2018-10-24 21:43:00] (ERROR in xPDO\xPDOConnection::connect @ C:\OpenServer\domains\bezumkin.me\vendor\xpdo\xpdo\src\xPDO\xPDOConnection.php : 89) SQLSTATE[HY000] [1045] Access denied for user 's1889'@'localhost' (using password: YES)
+[2018-10-24 21:43:00] (ERROR in xPDO\xPDOConnection::connect @ C:\OpenServer\domains\bezumkin.me\vendor\xpdo\xpdo\src\xPDO\xPDOConnection.php : 89) SQLSTATE[HY000] [1045] Access denied for user 's1889'@'localhost' (using password: YES)
+[2018-10-24 21:43:00] (ERROR in xPDO\xPDOConnection::connect @ C:\OpenServer\domains\bezumkin.me\vendor\xpdo\xpdo\src\xPDO\xPDOConnection.php : 89) SQLSTATE[HY000] [1045] Access denied for user 's1889'@'localhost' (using password: YES)
+[2018-10-24 21:43:00] (ERROR in xPDO\xPDOConnection::connect @ C:\OpenServer\domains\bezumkin.me\vendor\xpdo\xpdo\src\xPDO\xPDOConnection.php : 89) SQLSTATE[HY000] [1045] Access denied for user 's1889'@'localhost' (using password: YES)
+[2018-10-24 21:43:00] (ERROR @ /index.php) Could not create table `news`
+SQL: CREATE TABLE `news` (`id` INTEGER unsigned NOT NULL AUTO_INCREMENT, `pagetitle` VARCHAR(100) NULL DEFAULT '', `longtitle` VARCHAR(255) NULL DEFAULT '', `text` LONGTEXT NULL, `alias` VARCHAR(100) NULL DEFAULT '', PRIMARY KEY (`id`), INDEX `alias` (`alias`)) ENGINE=MyISAM
+ERROR: 
+[2018-10-24 21:44:34] (ERROR in xPDO\xPDOConnection::connect @ C:\OpenServer\domains\bezumkin.me\vendor\xpdo\xpdo\src\xPDO\xPDOConnection.php : 89) SQLSTATE[HY000] [1045] Access denied for user 's1889'@'localhost' (using password: YES)
+[2018-10-24 21:44:34] (ERROR in xPDO\xPDOConnection::connect @ C:\OpenServer\domains\bezumkin.me\vendor\xpdo\xpdo\src\xPDO\xPDOConnection.php : 89) SQLSTATE[HY000] [1045] Access denied for user 's1889'@'localhost' (using password: YES)
+[2018-10-24 21:44:34] (ERROR in xPDO\xPDOConnection::connect @ C:\OpenServer\domains\bezumkin.me\vendor\xpdo\xpdo\src\xPDO\xPDOConnection.php : 89) SQLSTATE[HY000] [1045] Access denied for user 's1889'@'localhost' (using password: YES)
+[2018-10-24 21:44:34] (ERROR in xPDO\xPDOConnection::connect @ C:\OpenServer\domains\bezumkin.me\vendor\xpdo\xpdo\src\xPDO\xPDOConnection.php : 89) SQLSTATE[HY000] [1045] Access denied for user 's1889'@'localhost' (using password: YES)
+[2018-10-24 21:44:34] (ERROR in xPDO\xPDOConnection::connect @ C:\OpenServer\domains\bezumkin.me\vendor\xpdo\xpdo\src\xPDO\xPDOConnection.php : 89) SQLSTATE[HY000] [1045] Access denied for user 's1889'@'localhost' (using password: YES)
+[2018-10-24 21:44:34] (ERROR @ /index.php) Could not create table `news`
+SQL: CREATE TABLE `news` (`id` INTEGER unsigned NOT NULL AUTO_INCREMENT, `pagetitle` VARCHAR(100) NULL DEFAULT '', `longtitle` VARCHAR(255) NULL DEFAULT '', `text` LONGTEXT NULL, `alias` VARCHAR(100) NULL DEFAULT '', PRIMARY KEY (`id`), INDEX `alias` (`alias`)) ENGINE=MyISAM
+ERROR: 
+[2018-10-24 21:44:37] (ERROR in xPDO\xPDOConnection::connect @ C:\OpenServer\domains\bezumkin.me\vendor\xpdo\xpdo\src\xPDO\xPDOConnection.php : 89) SQLSTATE[HY000] [1045] Access denied for user 's1889'@'localhost' (using password: YES)
+[2018-10-24 21:44:37] (ERROR in xPDO\xPDOConnection::connect @ C:\OpenServer\domains\bezumkin.me\vendor\xpdo\xpdo\src\xPDO\xPDOConnection.php : 89) SQLSTATE[HY000] [1045] Access denied for user 's1889'@'localhost' (using password: YES)
+[2018-10-24 21:44:37] (ERROR in xPDO\xPDOConnection::connect @ C:\OpenServer\domains\bezumkin.me\vendor\xpdo\xpdo\src\xPDO\xPDOConnection.php : 89) SQLSTATE[HY000] [1045] Access denied for user 's1889'@'localhost' (using password: YES)
+[2018-10-24 21:44:37] (ERROR in xPDO\xPDOConnection::connect @ C:\OpenServer\domains\bezumkin.me\vendor\xpdo\xpdo\src\xPDO\xPDOConnection.php : 89) SQLSTATE[HY000] [1045] Access denied for user 's1889'@'localhost' (using password: YES)
+[2018-10-24 21:44:37] (ERROR in xPDO\xPDOConnection::connect @ C:\OpenServer\domains\bezumkin.me\vendor\xpdo\xpdo\src\xPDO\xPDOConnection.php : 89) SQLSTATE[HY000] [1045] Access denied for user 's1889'@'localhost' (using password: YES)
+[2018-10-24 21:44:37] (ERROR @ /index.php) Could not create table `news`
+SQL: CREATE TABLE `news` (`id` INTEGER unsigned NOT NULL AUTO_INCREMENT, `pagetitle` VARCHAR(100) NULL DEFAULT '', `longtitle` VARCHAR(255) NULL DEFAULT '', `text` LONGTEXT NULL, `alias` VARCHAR(100) NULL DEFAULT '', PRIMARY KEY (`id`), INDEX `alias` (`alias`)) ENGINE=MyISAM
+ERROR: 
